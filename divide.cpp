@@ -3,8 +3,8 @@
 using namespce std;
 int main(){
   int a,b;
-  cout<<"enter two numbers";
+  cout<<"Enter Two Intgers- "<<endl;
   cin>>a>>b;
-  cout<<"the division is "<<a/b;
+  cout<<"The Division is - "<<a/b;
   return 0;
 }
