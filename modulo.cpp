@@ -3,8 +3,8 @@
 using namespce std;
 int main(){
   int a,b;
-  cout<<"enter two numbers";
+  cout<<"Enter Two Integers -"<<endl;
   cin>>a>>b;
-  cout<<"the remainder  is "<<a%b;
+  cout<<"The remainder is -"<<a%b;
   return 0;
 }
