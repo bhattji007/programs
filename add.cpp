@@ -2,8 +2,8 @@
 using namespce std;
 int main(){
   int a,b;
-  cout<<"enter two numbers";
+  cout<<"Enter two integers-";
   cin>>a>>b;
-  cout<<"the sum is "<<a+b;
+  cout<<"The sum is- "<<a+b;
   return 0;
 }
